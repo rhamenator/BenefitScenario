@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/assets/logo.png" alt="BenefitScenario logo" width="220">
+</p>
+
 # BenefitScenario
 
 An organization-neutral employee benefit cost-sharing scenario engine derived
